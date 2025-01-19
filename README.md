@@ -100,7 +100,7 @@ El conversor actualmente soporta las siguientes monedas de Latinoamérica:
 
 Este proyecto utiliza la API de ExchangeRate para obtener las tasas de cambio.
 
-##🌟 Sobre el desafío de Alura
+## 🌟 Sobre el desafío de Alura
 
 Este proyecto fue desarrollado como parte del Challenge Back-End de Alura, enfocado en mejorar las habilidades técnicas y enfrentar retos reales de desarrollo.
 
@@ -111,7 +111,7 @@ Objetivos principales:
     Interactuar con el usuario mediante una interfaz de consola.
     Implementar bibliotecas externas como Gson para trabajar con JSON.
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación o agregar nuevas funcionalidades, no dudes en hacer un fork y enviar un pull request.
 📝 Licencia
