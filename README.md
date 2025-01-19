@@ -29,7 +29,7 @@ Este proyecto es una aplicación en Java que permite realizar conversiones de mo
 Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 1. [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-2. [Maven](https://maven.apache.org/) (para manejar las dependencias)
+2. [Gson]([https://maven.apache.org/](https://mvnrepository.com/artifact/com.google.code.gson/gson)) (Utilizado como implementacion .jar)
 3. Una conexión a internet (para acceder a la API de ExchangeRate)
 
 ---
